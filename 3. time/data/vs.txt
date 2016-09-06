@@ -1,0 +1,1234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!DOCTYPE html>
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 9]> <html class="aui ltr no-js lt-ie9 http" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="aui ltr no-js http" lang="en">
+<!--<![endif]-->
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="cache-control" content="no-cache"/>
+	<meta http-equiv="Pragma" content="no-cache"/>
+	<meta name="author" content="STOXX">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>STOXX Digital | Status</title>
+	<meta name="description" content="" lang="en_US" />
+		<meta property="og:title" content="STOXX Digital | Status" />
+	<meta property="og:description" content="" />
+	<meta property="og:url" content="https://www.stoxx.com/download/historical_calues/h_vstoxx.txt" />
+	<meta property="og:image" content="https://www.stoxx.com/STOXX-DigitalMain-theme/images/stoxx/stoxxcom/stoxxcom-logo-social-share.png" />
+	<meta property="og:locale" content="en_US" />
+	<link href="https://www.stoxx.com/STOXX-DigitalMain-theme/images/favicon.ico" rel="Shortcut Icon" />
+    <link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/fonts.css" rel="stylesheet" />
+	<link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/bootstrap-responsive.min.css" rel="stylesheet" />
+    <link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/reset.css" rel="stylesheet" />    
+    <link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/foundation.css" rel="stylesheet" />    
+    <link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/pri-components.min.css" rel="stylesheet" />
+    <link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/sec-components.min.css" rel="stylesheet" />
+    <link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/integrationRWDFix.css" rel="stylesheet" />
+		    <!--[if IE 8]>
+		<link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/ie8fix_com.css" rel="stylesheet"/>
+    <![endif]-->
+        	<link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/home-wow.css" rel="stylesheet" />
+    	<link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/stoxxportal.css" rel="stylesheet" />
+    <link href="https://www.stoxx.com/STOXX-DigitalMain-theme/css/custom.css" rel="stylesheet" />
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+				<link href="https://www.stoxx.com/html/portlet/login/css/main.css?browserId=other&amp;themeId=STOXXDigitalMain_WAR_STOXXDigitalMaintheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1471577567000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="https://www.stoxx.com/notifications-portlet/notifications/css/main.css?browserId=other&amp;themeId=STOXXDigitalMain_WAR_STOXXDigitalMaintheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1471577476000" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return false;
+				},
+				getMajorVersion: function() {
+					return 0.0;
+				},
+				getRevision: function() {
+					return "";
+				},
+				getVersion: function() {
+					return "";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return false;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return false;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return false;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return false;
+				},
+				isSafari: function() {
+					return false;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return false;
+				},
+				isWindows: function() {
+					return false;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				NAV_SELECTOR: '#navigation',
+
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				
+					getLayoutId: function() {
+						return "1";
+					},
+					getLayoutURL: function() {
+						return "https://www.stoxx.com/web/guest/home";
+					},
+					getParentLayoutId: function() {
+						return "0";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					isVirtualLayout: function() {
+						return false;
+					},
+				
+
+				getBCP47LanguageId: function() {
+					return "en-US";
+				},
+				getCDNBaseURL: function() {
+					return "https://www.stoxx.com";
+				},
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10155";
+				},
+				getCompanyGroupId: function() {
+					return "10195";
+				},
+				getDefaultLanguageId: function() {
+					return "en_US";
+				},
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getLanguageId: function() {
+					return "en_US";
+				},
+				getParentGroupId: function() {
+					return "10182";
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "https://www.stoxx.com/STOXX-DigitalMain-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/STOXX-DigitalMain-theme";
+				},
+				getPlid: function() {
+					return "10185";
+				},
+				getPortalURL: function() {
+					return "https://www.stoxx.com";
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return true;
+				},
+				getScopeGroupId: function() {
+					return "10182";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "10182";
+				},
+				getSessionId: function() {
+					
+						
+						
+							return "";
+						
+					
+				},
+				getSiteGroupId: function() {
+					return "10182";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?refererPlid=10185";
+				},
+				getURLHome: function() {
+					return "https\x3a\x2f\x2fwww\x2estoxx\x2ecom\x2fweb\x2fguest";
+				},
+				getUserId: function() {
+					return "10159";
+				},
+				getUserName: function() {
+					
+						
+						
+							return "";
+						
+					
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=STOXXDigitalMain_WAR_STOXXDigitalMaintheme&colorSchemeId=01&minifierType=js&languageId=en_US&b=6210&t=1471577567000';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=en_US&b=6210&t=1471577567000&';
+			},
+			getFilter: function() {
+				
+					
+						return 'min';
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=STOXXDigitalMain_WAR_STOXXDigitalMaintheme&colorSchemeId=01&minifierType=js&languageId=en_US&b=6210&t=1471577567000';
+			}
+		};
+
+		Liferay.authToken = 'TNIjiBmr';
+
+		
+
+		Liferay.currentURL = '\x2fdownload\x2fhistorical_calues\x2fh_vstoxx\x2etxt';
+		Liferay.currentURLEncoded = '%2Fdownload%2Fhistorical_calues%2Fh_vstoxx.txt';
+	// ]]>
+</script>
+
+
+	
+		
+			
+				<script src="/html/js/barebone.jsp?browserId=other&amp;themeId=STOXXDigitalMain_WAR_STOXXDigitalMaintheme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=en_US&amp;b=6210&amp;t=1471577567000" type="text/javascript"></script>
+			
+			
+		
+	
+	
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['58', '47'];
+			
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+	
+
+
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+<link class="lfr-css-file" href="https&#x3a;&#x2f;&#x2f;www&#x2e;stoxx&#x2e;com&#x2f;STOXX-DigitalMain-theme&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;STOXXDigitalMain_WAR_STOXXDigitalMaintheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6210&#x26;t&#x3d;1471073677000" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+	<style type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+	</style>
+
+
+
+    <script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/custom.modernizr.js"></script>
+    <!--[if lt IE 9]>
+    	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/html5shiv.min.js"></script>
+    <![endif]-->
+	<script type="text/javascript">
+		var browser = {
+			version: function() {
+				var version = 999;
+				if(navigator.appVersion.indexOf('MSIE')!= -1) {
+					version = parseFloat(navigator.appVersion.split('MSIE')[1]);
+					return version;
+				}
+			}
+		};
+		function getCookie(cname){
+			var name=cname+"=";
+			var ca=document.cookie.split(";");
+			for(var i=0;i<ca.length;i++){
+				var c=ca[i];while(c.charAt(0)==" "){c=c.substring(1)}
+				if(c.indexOf(name)!=-1){
+					return c.substring(name.length,c.length)
+				}
+			}
+			return ""
+		}
+		function getParameterValue(paramName){
+			name=paramName.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");
+			var regexS="[\\?&]"+name+"=([^&#]*)";
+			var regex=new RegExp(regexS);
+			var results=regex.exec(window.location.href);
+			if(results==null){return""}
+			else{return results[1]}
+		}
+		String.prototype.initCap=function(){return this.toLowerCase().replace(/(?:^|\s)[a-z]/g,function(m){return m.toUpperCase()})};
+		var requestProtocol = 'https';
+		function setCookie(c_name,value) {
+			var setCookieInitIndex = (parseInt(requestProtocol.length) + 3);
+			var myDate = new Date();
+			myDate.setMonth(myDate.getMonth() + 12);
+			document.cookie = c_name +"=" +  escape(value) + ";expires=" + myDate.toUTCString() 
+			+ ";domain="+ themeDisplay.getPortalURL().toString().substring(setCookieInitIndex,themeDisplay.getPortalURL().length)+ ";path=/";	
+		}		
+	</script>
+	
+		<script type="text/javascript">
+		var STOXX_SOLR_SEARCH_HOST_NAME = 'https://solr.stoxx.com/solr/collection1/select/';
+		var STOXX_GROUP_ID = '48903';
+		var STOXX_FQS_CHART_JSON_HOST_PATH = 'https://www.stoxx.com/itf/fqs/delayed/charts.json';
+		var USER_ROLES_FOR_SEARCH = '';
+		var STOXX_APP_DATE_FORMAT_FOR_DATEPICKER = 'M. dd,yyyy';
+		STOXX_APP_DATE_FORMAT_FOR_DATEPICKER=STOXX_APP_DATE_FORMAT_FOR_DATEPICKER.replace(",",", ");	
+		var STOXX_APP_FORMAT_FOR_MONTHPICKER = 'MM yyyy';
+		var STOXX_APP_SEO_REPORT_SUITE_ACCOUNT = 'stoxxprod';
+		var STOXX_DEFAULT_SUPER_REGION = 'americas,asia/pacific,emea,global';
+	</script>
+	
+	<!--Added script for google analytics start -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-70749690-1', 'auto');
+		ga('send', 'pageview');
+	</script> 
+<!--Added script for google analytics end -->
+	
+</head>
+
+
+<body id="home-page" class="stoxx  yui3-skin-sam controls-visible guest-site signed-out public-page site home"  data-start='background-position:center 0px;' data-end='background-position:center -150px;'>
+<div style="display:none">
+  		
+</div>
+<div id="eucookie_confirmation_popup" class="cookie-stikey-nav hide">
+	<div class="row">
+		<div class="large-10 small-12 columns">To give you the best online STOXX experience, we and selected partners use cookies on our site. If you continue without clicking the "Continue" button, we will assume you are happy to receive all cookies on the STOXX website. To find out more information about cookies and how they're used on the STOXX website, visit our <a target="_blank" href="/web/stoxxcom/privacy-policy">privacy policy</a>.</div>
+		<div class="large-2 small-12 columns">
+			<input class="button-secondary submit-btn close_modal" value="Continue" type="button" onclick="onEuCookieYes();" />
+		</div>
+	</div>
+</div>
+
+<div class="stoxxdigital">
+	<!-- Header section -->
+	
+<header role="banner">
+	<div class="header hide-for-print" id="header">
+				
+									
+			
+			
+			
+			
+							
+						
+						$forgotPasswordUrl.setWindowState("maximized")
+			$forgotPasswordUrl.setPortletMode("view")
+			$forgotPasswordUrl.setParameter("saveLastPath", "0")
+			$forgotPasswordUrl.setParameter("struts_action", "/login/forgot_password")
+			
+			<div class="row">
+				<div id="login-overlay" class="large-12 header-login main-content clearfix">
+					<a class="close-modal right close-login" href="javascript:;" title='Close'>x</a>
+					<div class="large-5 columns small-12 content right">
+						<div id="existingUserMsg" class="small-12 columns hide">
+							<div class="alert error red marginTop10 marginBotZero"> You are an existing User. Please use the &quot;Existing User&quot; utility to be migrated into the new system. </div>
+						</div>
+						<div class="large-9 small-12 columns">
+							<h3>Login</h3>
+							<form action="https://www.stoxx.com/web/guest/home?p_p_id=58&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&saveLastPath=0&_58_struts_action=%2Flogin%2Flogin&_58_redirect=%2Fdownload%2Fhistorical_calues%2Fh_vstoxx.txt&_58_privateLayout=false" id="loginForm" class="custom" method="post" autocomplete="off">
+								<label class="name-field small-12" for="_58_login">
+									<input class="validate[required]" id="_58_login" name="_58_login" placeholder='Email Id' type="text" value="" autocomplete="off" />
+								</label>
+								<label class="password-field small-12" for="_58_password">
+									<input class="validate[required]" id="_58_password" name="_58_password" placeholder='Password' type="password" value="" autocomplete="off"  ondrag="return false" ondrop="return false"  />
+								</label> 
+								<div class="large-12">
+									<input type="checkbox" id="_58_rememberMe" name="_58_rememberMe" class="remember"/> Remember me									<input type="hidden" name="comeBackForAddToRef" id="comeBackForAddToRef" value=""/>
+									<input type="hidden" name="comeBackForBenchmark" id="comeBackForBenchmark" value=""/>
+									<input type="hidden" name="addTORefPageTitle" id="addTORefPageTitle" value=""/>
+									<input type="hidden" name="addTORefPageUrl" id="addTORefPageUrl" value=""/>
+								</div>                        
+								<div class="large-12 small-12 bottom20">
+									<input class="large-6 header-login-submit" type="submit" value='LOGIN' />
+									<a href="$forgotPasswordUrl" class="forgot-password large-6">Forgot Password?</a>
+								</div>
+							</form>
+						</div>
+						<div class="large-3 small-3 right">&nbsp;</div>
+					</div>
+					<div class="large-7 columns small-12 benefit-reg right">
+							$webContentToRender
+					</div>
+				</div>
+			</div>
+				<div class="row">
+			<div id="mobile-menu-icon" class="hide-for-desktop columns mobile-menu-icon columns">
+				<a href="javascript:void(0);" class="menu-icon"> &nbsp; </a>
+			</div>			
+			<div class="large-4 columns stoxx-logo" id="stoxxLogoIdl">
+									<img width="270" height="19" src="https://www.stoxx.com/STOXX-DigitalMain-theme/images/stoxx/stoxxcom/stoxx_innovative_logo.png" class="show-for-lagre hide-for-small hide-for-medium" alt="logo" title="">
+								<!-- below section is for small and medium devices -->
+				<div class="inner clearfix">
+					<div id="mobile-search-icon" class="columns large-4 small-4 show-for-small show-for-medium hide-for-large search">
+						<img width="23" height="22" src="https://www.stoxx.com/STOXX-DigitalMain-theme/images/stoxx/stoxxcom/icon-search.png" title='Search' />
+					</div>
+					<div class="logo columns large-2 small-4">
+											<img width="117" height="29" src="https://www.stoxx.com/STOXX-DigitalMain-theme/images/stoxx/stoxxcom/Stoxxcom_Mobile_Logo.png" class="show-for-small hide-for-large comMobLogo show-for-medium" alt="mobile logo" title="">
+										</div>
+					<div class="columns  small-4 nopadding">
+						<ul class="inline-list userDropDown hide-for-large show-for-small right">
+							<li class="hide-for-small"><a href="https://www.stoxx.com/web/guest/contact">Contact</a></li>
+																					<li class="down-arrow loginReg" id="dropdown3">
+								<a class="userInfo arrow-bot right data-dropdown">
+									<img width="15" height="15" src="https://www.stoxx.com/STOXX-DigitalMain-theme/images/stoxx/stoxxcom/userImage.png" class="show-for-small hide-for-large" alt="" title=""> 
+									<span class="hide-for-small">Login/Register</span> 
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<!-- this nopadding class should be removed in case language section displays -->
+			<div class="large-8 columns right-menu-link right nopadding">
+				<div class="right">
+					<ul class="left inline-list userDropDown hide-for-small" >
+						<li class="hide-for-small"><a href="https://www.stoxx.com/web/guest/contact">Contact</a></li>
+												<li class="down-arrow" id="dropdown2">
+							<a class="userInfo arrow-bot right data-dropdown"> 
+								<img width="15" height="15" src="https://www.stoxx.com/STOXX-DigitalMain-theme/images/stoxx/stoxxcom/userImage.png" class="show-for-small hide-for-large" alt="" title=""> 
+								<span class="hide-for-small">Login/Register</span> 
+							</a>
+						</li>
+											</ul>
+										
+					
+					
+					
+					<div class="left LanguageDropDown hide">
+																								<a class="selectedValue show-for-small hide-for-large" href="javascript:void(0);">DE</a>
+						<ul class="inline-list languageList">
+							
+							<li class=" text-center"><a href="https://www.stoxx.com/web/guest/home?p_auth=TNIjiBmr&p_p_id=82&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_82_struts_action=%2Flanguage%2Fview&_82_redirect=%2Fdownload%2Fhistorical_calues%2Fh_vstoxx.txt&_82_languageId=en_GB">EN</a></li>
+																					
+							<li class=" left-bar text-center"><a href="https://www.stoxx.com/web/guest/home?p_auth=TNIjiBmr&p_p_id=82&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_82_struts_action=%2Flanguage%2Fview&_82_redirect=%2Fdownload%2Fhistorical_calues%2Fh_vstoxx.txt&_82_languageId=de_DE">DE</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row show-for-small hide-for-desktop black-boarder">&nbsp;</div>
+	</div>
+			</header>	<!-- Main Content -->
+	<div class="home-page-content">
+				
+		<!-- MAIN CONTENT SECTION : PORTLET MODULE -->
+		<div id="content">
+							
+				
+				<div class="column-1" id="main-content" role="main">
+
+
+<section class="portlet" id="portlet_status">
+	<div class="portlet-content" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("body").css({"background":"none"});
+		$("div#header").css({"border-bottom":"1px solid #CCCCCC"});
+		$("div#mega-menu, div.floating-icons, div.right-menu-link.right, ul#stoxx-breadcrumbs, div#footer").remove();
+		var _html = 	'<div class="row">';
+		_html = _html + '<div style="margin-top: 9.2em !important;" class="columns">';
+		_html = _html + '<h1>You do not have access to this file. Please contact customer support to enable access.</h1>';
+		_html = _html + '<br>';
+		_html = _html + '<a href="javascript:history.go(-1)" class="greenBtn" style="color:white">Go Back</a>';
+		_html = _html + '</div>';
+		_html = _html + '</div>';
+		$("div#content").html(_html);
+	});
+</script>
+
+	</div>
+</section></div>
+					</div>
+	</div>
+	
+	<!-- Footer section -->
+	<div class="clear"></div>
+	<footer role="contentinfo"  class="home-foot" >
+	<div class="row hide-for-print">
+		<div class="large-12 columns">
+
+<div id="footer" class="footer columns nopadding-mobile home-new-foot no-top-margin">
+<div class="row-new">
+<!------------ Social Media ------------->
+<div class="medium-3 left">
+  <ul class="inline-list columns footer-icons left">
+    <li class="first">Follow us on </li>
+    <li><a href="https://www.stoxx.com/web/guest/twitter" tabindex="1" target="_blank" class="twitter-icon" title='Twitter'  ></a></li>
+    <li><a href="https://www.stoxx.com/web/guest/xing" tabindex="1" target="_blank" class="xing-icon" title='Xing' ></a></li>
+    <li><a href="https://www.stoxx.com/web/guest/linkedin" tabindex="1" target="_blank" class="linkedin-icon" title='Linkedin' ></a></li>
+  </ul>
+</div>
+
+<!------------ Footer Links ------------->
+<div class="medium-7 left">
+  <ul class="inline-list columns footer-links left">
+    <li class="right-brdr"><a tabindex="1" href="https://www.stoxx.com/web/guest/corporate">Corporate</a></li>
+    <li><a tabindex="1" href="https://www.stoxx.com/web/guest/conditions-of-use">Conditions of Use</a></li>
+    <li class="right-brdr"><a tabindex="1" href="https://www.stoxx.com/web/guest/privacy-policy">Privacy Policy</a></li>
+    <li><a tabindex="1" href="https://www.stoxx.com/web/guest/sitemap">Sitemap</a></li>
+    <li class="right-brdr"><a tabindex="1" href="https://www.stoxx.com/web/guest/imprint">Imprint</a> </li>
+    <li><a tabindex="1" href="https://www.stoxx.com/web/guest/help">Help</a> </li>
+    <li class="right-brdr"><a tabindex="1" target="_blank" href="https://www.stoxx.com/web/guest/smi" id="six-swiss-extr-link">SMI</a></li>
+    <li class="footer-contact-link"><a tabindex="1" href="https://www.stoxx.com/web/guest/contact">Contact</a></li>
+    <li class="right-brdr last"><a tabindex="1" target="_blank" href="https://www.stoxx.com/web/guest/dax" id="dax-extr-link">DAX</a></li>
+  </ul>  
+</div> 
+ 
+<!------------ Copyright ------------->  
+<div class="right copyright">&copy; STOXX Limited</div>
+</div>  
+<div class="row-new">
+<!------------ Part Of ------------->    
+ <div class="stoxxasso"> STOXX is part of <img width="93" align="top" height="20" alt="" class="imgFix" src="https://www.stoxx.com/web/guest/STOXX-DigitalMain-theme/images/stoxx/stoxxcom/home/logo_footer1.jpg"> </div>
+</div>
+</div>	
+			
+		</div>
+	</div>
+</footer>
+</div>
+
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/jquery-ui-1.10.4.custom.min.js"></script>
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/jquery.mCustomScrollbar.min.js"></script>
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/skrollr.js"></script>
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/home-wow.js"></script>
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/home.js"></script>
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/foundation/foundation.js"></script>
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/foundation/foundation.placeholder.js"></script>
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/foundation/foundation.forms.js"></script> 
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/jquery.validationEngine-en.js"></script>
+	<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/jquery.validationEngine.js"></script>
+<script type="text/javascript">
+	var stoxxSolrSearchTerm;
+	stoxxSolrSearchTerm=getParameterValue("searchTerm");
+	if(typeof(stoxxSolrSearchTerm)=="undefined"||stoxxSolrSearchTerm==""){
+		stoxxSolrSearchTerm=getParameterValue("_STOXX_Search_WAR_STOXXSearchportlet_searchTerm")
+	}
+</script>
+<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/stoxx-predictive-search.js"></script>
+<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/s_code.js"></script>
+<script type="text/javascript" src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/s_code_stoxx.js"></script>
+<script type="text/javascript">
+	        $(document).foundation();
+</script>
+
+<!-- Video File JS Libs and need to load after foundation() call -->
+
+
+<script type="text/javascript">
+	if(-1 == -1){
+		$('#eucookie_confirmation_popup').removeClass('hide');
+	}
+	function onEuCookieYes(){
+		$('#eucookie_confirmation_popup').addClass('hide');
+		if($("#home-page")[0]){$(".stoxx.home .header").css({"top":"0px"});}
+		return false;
+	}
+	setCookie('eu-cookie','accepted');
+	
+			$("div.floating-icons").find("li").eq(0).find("a").on("click", function(e){
+			$(".header ul.userDropDown").find("li").eq(1)[0].click();
+			$('body').animate({scrollTop:0}, 'slow');
+			e.preventDefault();
+			e.stopPropagation();
+		});
+				USER_ROLES_FOR_SEARCH = USER_ROLES_FOR_SEARCH + 10163;
+		</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="https://www.stoxx.com/notifications-portlet/notifications/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1471577476000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+	
+
+
+<script type="text/javascript">
+// <![CDATA[
+AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', 'liferay-session', function(A) {(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();(function() {
+			Liferay.Session = new Liferay.SessionBase(
+				{
+					autoExtend: true,
+					sessionLength: 7200,
+					redirectOnExpire: false,
+					redirectUrl: 'https\x3a\x2f\x2fwww\x2estoxx\x2ecom\x2fweb\x2fguest',
+					warningLength: 0
+				}
+			);
+
+			
+		})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://www.stoxx.com/STOXX-DigitalMain-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1471073677000" type="text/javascript"></script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+</body>
+</html>
+
